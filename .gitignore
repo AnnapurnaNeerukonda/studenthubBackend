@@ -1,0 +1,2 @@
+echo "firebaseServiceAccountKey.json" >> .gitignore
+node_modules
