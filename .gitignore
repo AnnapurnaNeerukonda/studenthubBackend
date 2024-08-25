@@ -1,2 +1,3 @@
-echo "firebaseServiceAccountKey.json" >> .gitignore
+# echo "firebaseServiceAccountKey.json" >> .gitignore
+# echo "newkey.json" >> .gitignore
 node_modules
